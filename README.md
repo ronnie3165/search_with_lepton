@@ -1,5 +1,7 @@
 <div align="center">
 <h1 align="center">Search with Lepton</h1>
+
+  
 Build your own conversational search engine using less than 500 lines of code.
 <br/>
 <a href="https://search.lepton.run/" target="_blank"> Live Demo </a>
